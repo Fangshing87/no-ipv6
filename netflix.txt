@@ -1,0 +1,7 @@
+||fast.com^$dnstype=AAAA
+||netflix.com^$dnstype=AAAA
+||netflix.net^$dnstype=AAAA
+||nflxext.com^$dnstype=AAAA
+||nflximg.net^$dnstype=AAAA
+||nflxso.net^$dnstype=AAAA
+||nflxvideo.net^$dnstype=AAAA
