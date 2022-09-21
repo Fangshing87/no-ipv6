@@ -1,0 +1,7 @@
+||gamer.com.tw^$dnstype=AAAA
+||bahamut.com.tw^$dnstype=AAAA
+||hinet.net^$dnstype=AAAA
+||fbcdn.net^$dnstype=AAAA
+||gvt1.com^$dnstype=AAAA
+||digicert.com^$dnstype=AAAA
+||viblast.com^$dnstype=AAAA
