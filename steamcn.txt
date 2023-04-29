@@ -1,0 +1,12 @@
+||steampipe.steamcontent.tnkjmec.com^$dnstype=AAAA
+||st.dl.eccdnx.com^$dnstype=AAAA
+||st.dl.bscstorage.net^$dnstype=AAAA
+||st.dl.pinyuncloud.com^$dnstype=AAAA
+||dl.steam.clngaa.com^$dnstype=AAAA
+||cdn.mileweb.cs.steampowered.com.8686c.com^$dnstype=AAAA
+||cdn-ws.content.steamchina.com^$dnstype=AAAA
+||cdn-qc.content.steamchina.com^$dnstype=AAAA
+||cdn-ali.content.steamchina.com^$dnstype=AAAA
+||xz.pphimalayanrt.com^$dnstype=AAAA
+||lv.queniujq.cn^$dnstype=AAAA
+||alibaba.cdn.steampipe.steamcontent.com^$dnstype=AAAA
